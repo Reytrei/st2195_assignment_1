@@ -1,0 +1,22 @@
+---
+title: "R Markdown file"
+author: "Juan Manuel Trelles"
+date: "13-11-2021"
+output: html_document
+---
+
+#Practice Assignment 1
+
+## Creating R Markdown file
+
+Include in the **R Markdown** file the code that prints al integers numbers from 1 to 10:
+
+
+```{r}
+print (1:10)
+```
+
+
+
+  
+  
